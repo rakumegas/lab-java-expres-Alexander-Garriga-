@@ -1,7 +1,7 @@
 /**
  * Clase ejecutable para probar la lógica de Estudiante.
  * 
- * @author TU NOMBRE Y CÉDULA
+ * @author Alexander Garriga 8-1042-1256
  */
 public class Main {
 
