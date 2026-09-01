@@ -1,7 +1,7 @@
 /**
  * Clase que representa a un estudiante y gestiona sus notas académicas.
  * 
- * @author TU NOMBRE Y CÉDULA
+ * @author Alexander Garriga 8-1042-1256
  * @version 1.0
  */
 public class Estudiante {
